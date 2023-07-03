@@ -23,7 +23,7 @@ int main()
     //C:Corvette
 
     int i,j,k=0,x,y,chk=0,win=0,uposa[5][2],uposb[4][2],uposd[3][2],uposc[2][2],a=0,b=0,c=0,d=0,probab,diff;
-    char gridu[10][10],griduv[10][10],gridc[10][10],gridcv[10][10],orin[2],tempstr[10],str[20]="Battleship",str1[50]="Abhishek Dinkar Raut",ch;
+    char gridu[10][10],griduv[10][10],gridc[10][10],gridcv[10][10],orin[2],tempstr[10],str[20]="Battleship",str1[50]="Anshul Tyagi",ch;
    
     for(i=0;i<10;i++)
     {
